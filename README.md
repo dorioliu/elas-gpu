@@ -1,4 +1,4 @@
-## elas-gpu
+## elas-gpu (under windows cuda)
 This is a modified version of [libelas-gpu](https://github.com/goldbattle/libelas-gpu) which is a gpu version of a well known dense stereo-matching algorithm [libelas](http://www.cvlibs.net/software/libelas/)
 
 ## difference 
