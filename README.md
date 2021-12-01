@@ -1,5 +1,5 @@
 ## elas-gpu
-This is a modified version of [libelas-gpu](https://github.com/goldbattle/libelas-gpu) which is a gpu version of well known [libelas](http://www.cvlibs.net/software/libelas/)
+This is a modified version of [libelas-gpu](https://github.com/goldbattle/libelas-gpu) which is a gpu version of a well known dense stereo-matching algorithm [libelas](http://www.cvlibs.net/software/libelas/)
 
 ## difference 
 This version is modified to be compatable to Visual studio under Windows, some modification, for example adding and modifying some headers of time.h, adding some new version of funtions that can run under windows.
