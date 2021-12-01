@@ -46,7 +46,7 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>./libelas-gpu-master/libelas-gpu;./libelas-gpu-master/CPU;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include;C:\ProgramData\NVIDIA Corporation\CUDA Samples\v11.0\common\inc;./libelas-gpu-master/GPU;$(IncludePath)</IncludePath>
+    <IncludePath>./libelas-gpu-master/CPU;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include;C:\ProgramData\NVIDIA Corporation\CUDA Samples\v11.0\common\inc;./libelas-gpu-master/GPU;$(IncludePath)</IncludePath>
     <LibraryPath>C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\lib\x64;C:\ProgramData\NVIDIA Corporation\CUDA Samples\v11.0\common\lib\x64;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
